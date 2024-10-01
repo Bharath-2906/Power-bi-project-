@@ -1,4 +1,3 @@
-# Power-bi-project-
 # Power BI Project
 
 ## Project Overview
